@@ -1,5 +1,6 @@
 # snake22d.py
- #Uma tentativa de criação de um jogo em PYTHON.
+ #Uma tentativa de criação de um jogo em PYTHON juntamente com o DevTG16.
+ #Partículas de trabalho em equipe.
  
 import pygame
 import random
